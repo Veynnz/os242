@@ -17,3 +17,5 @@ ZCZC W01 80 L11 Continuing assignment 01, setting up debian
 ZCZC W01 99 L02 Attends Classroom
 ZCZC W01 85 L11 Finishing assignment 01
 ZCZC W01 10 L05 Answering pop quiz
+ZCZC W01 70 L05 Studying and attending the weekly quiz
+ZCZC W00 02 L03 Updating github OS log
