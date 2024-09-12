@@ -22,3 +22,4 @@ ZCZC W01 02 L03 Updating github OS log
 ZCZC W02 30 L06 Browsing the Silberschatz book
 ZCZC W02 50 L21 Trying to fix an accidental error in my debian account
 ZCZC W02 05 L41 Updating mylog.txt
+ZCZC W02 75 L12 Starting my progress on assignment 2
