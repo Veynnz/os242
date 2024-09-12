@@ -18,4 +18,7 @@ ZCZC W01 99 L02 Attends Classroom
 ZCZC W01 85 L11 Finishing assignment 01
 ZCZC W01 10 L05 Answering pop quiz
 ZCZC W01 70 L05 Studying and attending the weekly quiz
-ZCZC W00 02 L03 Updating github OS log
+ZCZC W01 02 L03 Updating github OS log
+ZCZC W02 30 L06 Browsing the Silberschatz book
+ZCZC W02 50 L21 Trying to fix an accidental error in my debian account
+ZCZC W02 05 L41 Updating mylog.txt
