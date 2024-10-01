@@ -22,5 +22,10 @@ Some easy-to-use commands to inspect hardware. These commands will help with lis
 ### OS242 References
 
 * [Silberschatz Book](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) --- The book of Operating System Concepts by Silberschatz
+
+### Weekly Topic References
+
+* [Memory Addressing Modes](https://en.cppreference.com/w/cpp/memory/shared_ptr) --- A comprehensive overview of different memory addressing modes used in computer architecture
+* [Pointer tutorial](https://www.w3schools.com/c/c_pointers.php) --- A step-by-step tutorial of Pointers in C
 <br>
 <hr>

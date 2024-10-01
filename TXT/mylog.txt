@@ -36,3 +36,16 @@ ZCZC W03 05 L41 Updating mylog.txt
 ZCZC W03 20 L04 Updating links.md
 ZCZC W03 05 L41 Updating mylog.txt
 ZCZC W03 05 L03 Pushing to github
+ZCZC W04 99 L02 Attends Classroomm
+ZCZC W04 20 L61 Backing up Virtual Box
+ZCZC W04 20 L27 Backing up SSH
+ZCZC W04 30 L14 Doing assignment WEEK 04
+ZCZC W04 05 L43 Updating myrank.txt
+ZCZC W04 05 L41 Updating mylog.txt
+ZCZC W04 30 L01 Doing WEEK04 Pop Quiz
+ZCZC W04 99 L02 Attends Classroom
+ZCZC W04 20 L21 Rechecking the assignment
+ZCZC W04 20 L04 Updating links.md
+ZCZC W04 05 L41 Updating mylog.txt
+ZCZC W04 05 L03 Pushing to github
+ZCZC W04 05 L03 Pushing to github
