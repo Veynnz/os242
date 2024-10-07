@@ -18,6 +18,7 @@ Some easy-to-use commands to inspect hardware. These commands will help with lis
 * [RegEx Basics](https://youtu.be/bgBWp9EIlMM?si=GaLztdbVuh6Z7zpf) --- This contains the youtube video talking about the basics of RegEx
 * [Vim Basics](https://youtu.be/ggSyF1SVFr4?si=-VuE92aWpniF81qH) --- This contains the youtube video talking about the basics of Vim
 * [CyberSec Video](https://youtu.be/U_P23SqJaDc) --- This contains the youtube video talking about Cyber Security
+* [60 Basic Linux Commands](https://www.youtube.com/watch?v=gd7BXuUQ91w) --- Tutorial of 60 Linux command lines i might need down the line
 
 ### OS242 References
 
@@ -27,5 +28,6 @@ Some easy-to-use commands to inspect hardware. These commands will help with lis
 
 * [Memory Addressing Modes](https://en.cppreference.com/w/cpp/memory/shared_ptr) --- A comprehensive overview of different memory addressing modes used in computer architecture
 * [Pointer tutorial](https://www.w3schools.com/c/c_pointers.php) --- A step-by-step tutorial of Pointers in C
+* [Basics of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0&pp=ygUfdmlydHVhbCBtZW1vcnkgb3BlcmF0aW5nIHN5c3RlbQ%3D%3D) --- An explanation of virtual memory in operating system
 <br>
 <hr>
