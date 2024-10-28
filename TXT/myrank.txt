@@ -1,7 +1,10 @@
 #WEEKLY 3 of 10 RANKS
+<<<<<<< HEAD
 ZCZC W07 freiazulaika
 ZCZC W07 arishashaista
 ZCZC W07 cleoexcel
+=======
+>>>>>>> dee25e4 (WEEK 06 DONE)
 ZCZC W06 FaiziIsmady
 ZCZC W06 noQils
 ZCZC W06 khansakhai
