@@ -30,10 +30,7 @@ Some easy-to-use commands to inspect hardware. These commands will help with lis
 * [Pointer tutorial](https://www.w3schools.com/c/c_pointers.php) --- A step-by-step tutorial of Pointers in C
 * [Basics of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0&pp=ygUfdmlydHVhbCBtZW1vcnkgb3BlcmF0aW5nIHN5c3RlbQ%3D%3D) --- An explanation of virtual memory in operating system
 * [Interprocess Communication explanation](https://www.youtube.com/watch?v=dJuYKfR8vec&pp=ugMICgJpZBABGAHKBQNpcGM%3D) --- A simple youtube video explaining about interprocess communication
-<<<<<<< HEAD
 * [Deadlockin Operating System](https://www.youtube.com/watch?v=onkWXaXAgbY&t=17s) --- A quick 4-minute introduction of deadlock in operating system.
 * [Deadlock & Starvation in Semaphore](https://www.youtube.com/watch?v=uP9ICOH0Xsw) --- More explanation about deadlock and starvation.
-=======
->>>>>>> dee25e4 (WEEK 06 DONE)
 <br>
 <hr>

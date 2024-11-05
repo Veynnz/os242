@@ -68,11 +68,8 @@ ZCZC W06 05 L41 Updating mylog.txt
 ZCZC W06 50 L16 Finishing WEEK 06 Pop Quizzes
 ZCZC W06 03 L41 Updating mylog.txt
 ZCZC W06 05 L03 Pushing to github
-<<<<<<< HEAD
 ZCZC W07 99 L02 Attends Classroom
 ZCZC W07 50 L17 Finishing assignment WEEK07
 ZCZC W07 90 L17 Finishing WEEK07 Pop Quizzes
 ZCZC W07 05 L42 Updating myrank.txt
 ZCZC W07 05 L04 Updating links.md
-=======
->>>>>>> dee25e4 (WEEK 06 DONE)
