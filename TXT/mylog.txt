@@ -1,0 +1,75 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 99 L02 Attends classroom
+ZCZC W00 10 L01 Exploring scele of OS
+ZCZC W00 30 LO3 Setting github repository
+ZCZC W00 15 LO4 Setting the page for github repository
+ZCZC W00 90 L10 Doing assignment 00
+ZCZC W00 99 L02 Attends classroom
+ZCZC W00 10 L06 Browsing OS related references (such as OS related books)
+ZCZC W00 40 L05 Studying and attending quiz
+ZCZC W00 05 L03 Updating github OS log
+ZCZC W01 99 L02 Attends Classroom
+ZCZC W01 65 L11 Doing assignment 01, installing Debian and other stuff
+ZCZC W01 10 L03 Doing github related stuffs
+ZCZC W01 80 L11 Continuing assignment 01, setting up debian
+ZCZC W01 99 L02 Attends Classroom
+ZCZC W01 85 L11 Finishing assignment 01
+ZCZC W01 10 L05 Answering pop quiz
+ZCZC W01 70 L05 Studying and attending the weekly quiz
+ZCZC W01 02 L41 Updating github OS log
+ZCZC W02 30 L06 Browsing the Silberschatz book
+ZCZC W02 50 L21 Trying to fix an accidental error in my debian account
+ZCZC W02 05 L41 Updating mylog.txt
+ZCZC W02 75 L12 Working on assignment 2
+ZCZC W02 95 L01 Doing week 02 Pop Quiz
+ZCZC W02 02 L44 Running myscript.sh
+ZCZC W02 05 L41 Updating mylog.txt
+ZCZC W02 05 L03 Committing and pushing the pop quiz results
+ZCZC W03 99 L02 Attends Classroom
+ZCZC W03 20 L62 Backing up Virtual Debian Guest
+ZCZC W03 200 L13 Working on week assignment 3
+ZCZC W03 50 L21 Fixing an error i made
+ZCZC W03 02 L42 Updating myrank.txt
+ZCZC W03 05 L41 Updating mylog.txt
+ZCZC W03 20 L04 Updating links.md
+ZCZC W03 05 L41 Updating mylog.txt
+ZCZC W03 05 L03 Pushing to github
+ZCZC W04 99 L02 Attends Classroomm
+ZCZC W04 20 L61 Backing up Virtual Box
+ZCZC W04 20 L27 Backing up SSH
+ZCZC W04 30 L14 Doing assignment WEEK 04
+ZCZC W04 05 L43 Updating myrank.txt
+ZCZC W04 05 L41 Updating mylog.txt
+ZCZC W04 30 L01 Doing WEEK04 Pop Quiz
+ZCZC W04 99 L02 Attends Classroom
+ZCZC W04 20 L21 Rechecking the assignment
+ZCZC W04 20 L04 Updating links.md
+ZCZC W04 05 L41 Updating mylog.txt
+ZCZC W04 05 L03 Pushing to github
+ZCZC W04 05 L03 Pushing to github
+ZCZC W05 99 L02 Attends Classroom
+ZCZC W05 80 L15 Starting on assignment WEEK 05
+ZCZC W05 20 L61 Backing up Virtual Box
+ZCZC W05 20 L27 Backing up SSH
+ZCZC W05 90 L15 Finishing assignment WEEK 05
+ZCZC W05 05 L04 Updating links.md
+ZCZC W05 02 L42 Updating myrank.txt
+ZCZC W05 05 L41 Updating mylog.txt
+ZCZC W05 05 L03 Pushing to github
+ZCZC W06 99 L02 Attends Classroom
+ZCZC W06 90 L16 Doing WEEK 06 Pop Quiz 6 Docusaurus
+ZCZC W06 10 L27 Backing up the files
+ZCZC W06 70 L16 Finishing assignment WEEK 06
+ZCZC W06 02 L42 Updating myrank.txt
+ZCZC W06 08 L04 Updating links.md
+ZCZC W06 05 L41 Updating mylog.txt
+ZCZC W06 50 L16 Finishing WEEK 06 Pop Quizzes
+ZCZC W06 03 L41 Updating mylog.txt
+ZCZC W06 05 L03 Pushing to github
+ZCZC W07 99 L02 Attends Classroom
+ZCZC W07 50 L17 Finishing assignment WEEK07
+ZCZC W07 90 L17 Finishing WEEK07 Pop Quizzes
+ZCZC W07 05 L42 Updating myrank.txt
+ZCZC W07 05 L04 Updating links.md
