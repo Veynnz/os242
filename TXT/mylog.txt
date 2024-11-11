@@ -75,3 +75,11 @@ ZCZC W07 05 L42 Updating myrank.txt
 ZCZC W07 05 L04 Updating links.md
 ZCZC W07 05 L41 Updating mylog.txt
 ZCZC W07 03 L03 Pushing to github
+ZCZC W08 99 L02 Attending Classroom
+ZCZC W08 80 L18 Doing assignment WEEK08
+ZCZC W08 99 L02 Attending Classroom
+ZCZC W08 99 L18 Doing LFS Chapter 5
+ZCZC W08 40 L18 Finishing assignment WEEK08
+ZCZC W08 03 L04 Updating links.md
+ZCZC W08 05 L41 Updating mylog.txt
+ZCZC W08 03 L03 Pushing to github

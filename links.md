@@ -32,5 +32,7 @@ Some easy-to-use commands to inspect hardware. These commands will help with lis
 * [Interprocess Communication explanation](https://www.youtube.com/watch?v=dJuYKfR8vec&pp=ugMICgJpZBABGAHKBQNpcGM%3D) --- A simple youtube video explaining about interprocess communication
 * [Deadlockin Operating System](https://www.youtube.com/watch?v=onkWXaXAgbY&t=17s) --- A quick 4-minute introduction of deadlock in operating system.
 * [Deadlock & Starvation in Semaphore](https://www.youtube.com/watch?v=uP9ICOH0Xsw) --- More explanation about deadlock and starvation.
+* [LFS Tutorial](https://www.youtube.com/watch?v=A0tnO3OB4AY&list=PLrhinKJAKUvaWMHjKDWj_JFvc5J2XLBF_) --- A series of tutorial video explaining the LFS book.
+* [Basics of CPU Scheduling](https://www.youtube.com/watch?v=Jkmy2YLUbUY) --- A video explaining the basics of CPU scheduling.
 <br>
 <hr>
